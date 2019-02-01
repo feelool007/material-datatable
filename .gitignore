@@ -1,3 +1,4 @@
-node_modules/
-src/*/**/__snapshots__
-package-lock.json
+/node_modules/
+/lib/
+/src/*/**/__snapshots__
+/package-lock.json
