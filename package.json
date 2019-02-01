@@ -9,10 +9,8 @@
   },
   "keywords": [
     "react",
-    "mui",
-    "datatable"
+    "material-datatable"
   ],
-  "author": "KLCho",
   "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^3.9.1",
