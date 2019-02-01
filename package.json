@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-datatable",
+  "name": "@feelool007/material-ui-datatable",
   "version": "1.0.0",
   "description": "A datatable component based on material-ui.",
   "main": "index.js",
@@ -11,6 +11,10 @@
     "react",
     "material-ui-datatable"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feelool007/material-ui-datatable.git"
+  },
   "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^3.9.1",
