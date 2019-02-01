@@ -1,5 +1,5 @@
 {
-  "name": "material-datatable",
+  "name": "material-ui-datatable",
   "version": "1.0.0",
   "description": "A datatable component based on material-ui.",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "keywords": [
     "react",
-    "material-datatable"
+    "material-ui-datatable"
   ],
   "license": "MIT",
   "dependencies": {
