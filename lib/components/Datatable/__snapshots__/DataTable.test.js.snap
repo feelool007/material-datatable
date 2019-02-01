@@ -1,0 +1,2644 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DataTable UI Test Pick Test Component snapshot 1`] = `
+<WithStyles(Paper)
+  className="_DataTable-paper-1"
+>
+  <div
+    className="_DataTable-tableWrapper-2"
+  >
+    <WithStyles(Table)
+      style={
+        Object {
+          "minWidth": 850,
+        }
+      }
+    >
+      <WithStyles(TableHead)>
+        <WithStyles(TableRow)
+          className="_DataTable-header-5"
+        >
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label1
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label2
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label3
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="3"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label4
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="4"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label5
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableHead)>
+      <WithStyles(TableBody)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="0"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="1"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="2"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            T
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            N
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            2
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="3"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            G
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            M
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="4"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            H
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            O
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            7
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            F
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            8
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="5"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            S
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            E
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            9
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableBody)>
+    </WithStyles(Table)>
+  </div>
+  <WithStyles(TablePagination)
+    component="div"
+    count={6}
+    labelDisplayedRows={[Function]}
+    labelRowsPerPage="每頁顯示："
+    onChangePage={[Function]}
+    onChangeRowsPerPage={[Function]}
+    page={0}
+    rowsPerPage={10}
+    rowsPerPageOptions={
+      Array [
+        10,
+        25,
+        50,
+      ]
+    }
+  />
+</WithStyles(Paper)>
+`;
+
+exports[`DataTable UI Test Pick Test should pick item if click any row 1`] = `
+<WithStyles(Paper)
+  className="_DataTable-paper-1"
+>
+  <div
+    className="_DataTable-tableWrapper-2"
+  >
+    <WithStyles(Table)
+      style={
+        Object {
+          "minWidth": 850,
+        }
+      }
+    >
+      <WithStyles(TableHead)>
+        <WithStyles(TableRow)
+          className="_DataTable-header-5"
+        >
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label1
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label2
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label3
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="3"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label4
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="4"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label5
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableHead)>
+      <WithStyles(TableBody)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="0"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="1"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8 _DataTable-picked-9"
+          key="2"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            T
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            N
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            2
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="3"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            G
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            M
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="4"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            H
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            O
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            7
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            F
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            8
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7 _DataTable-pickable-8"
+          key="5"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            S
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            E
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            9
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableBody)>
+    </WithStyles(Table)>
+  </div>
+  <WithStyles(TablePagination)
+    component="div"
+    count={6}
+    labelDisplayedRows={[Function]}
+    labelRowsPerPage="每頁顯示："
+    onChangePage={[Function]}
+    onChangeRowsPerPage={[Function]}
+    page={0}
+    rowsPerPage={10}
+    rowsPerPageOptions={
+      Array [
+        10,
+        25,
+        50,
+      ]
+    }
+  />
+</WithStyles(Paper)>
+`;
+
+exports[`DataTable UI Test Search Test Component snapshot 1`] = `
+<WithStyles(Paper)
+  className="_DataTable-paper-1"
+>
+  <WithStyles(_TableToolbar)
+    csv={false}
+    csvFilename="export.csv"
+    csvHeaders={
+      Array [
+        Object {
+          "column": "column1",
+          "key": "column1",
+          "label": "label1",
+        },
+        Object {
+          "column": "column2",
+          "key": "column2",
+          "label": "label2",
+        },
+        Object {
+          "column": "column3",
+          "key": "column3",
+          "label": "label3",
+        },
+        Object {
+          "column": "column4",
+          "key": "column4",
+          "label": "label4",
+        },
+        Object {
+          "column": "column5",
+          "key": "column5",
+          "label": "label5",
+        },
+      ]
+    }
+    data={
+      Array [
+        Object {
+          "column1": "A",
+          "column2": "B",
+          "column3": "3",
+          "column4": "C",
+          "column5": "4",
+        },
+        Object {
+          "column1": "B",
+          "column2": "C",
+          "column3": "1",
+          "column4": "C",
+          "column5": "6",
+        },
+        Object {
+          "column1": "T",
+          "column2": "N",
+          "column3": "2",
+          "column4": "D",
+          "column5": "1",
+        },
+        Object {
+          "column1": "G",
+          "column2": "M",
+          "column3": "6",
+          "column4": "D",
+          "column5": "3",
+        },
+        Object {
+          "column1": "H",
+          "column2": "O",
+          "column3": "7",
+          "column4": "F",
+          "column5": "8",
+        },
+        Object {
+          "column1": "A",
+          "column2": "S",
+          "column3": "4",
+          "column4": "E",
+          "column5": "9",
+        },
+      ]
+    }
+    filterble={false}
+    filters={
+      Object {
+        "column1": Object {
+          "label": "label1",
+          "visible": true,
+        },
+        "column2": Object {
+          "label": "label2",
+          "visible": true,
+        },
+        "column3": Object {
+          "label": "label3",
+          "visible": true,
+        },
+        "column4": Object {
+          "label": "label4",
+          "visible": true,
+        },
+        "column5": Object {
+          "label": "label5",
+          "visible": true,
+        },
+      }
+    }
+    onFilter={[Function]}
+    onResetSearch={[Function]}
+    onSearch={[Function]}
+    searchValue=""
+    searchable={true}
+  />
+  <div
+    className="_DataTable-tableWrapper-2"
+  >
+    <WithStyles(Table)
+      style={
+        Object {
+          "minWidth": 850,
+        }
+      }
+    >
+      <WithStyles(TableHead)>
+        <WithStyles(TableRow)
+          className="_DataTable-header-5"
+        >
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label1
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label2
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label3
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="3"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label4
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="4"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label5
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableHead)>
+      <WithStyles(TableBody)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="0"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="1"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="2"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            T
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            N
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            2
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="3"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            G
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            M
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="4"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            H
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            O
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            7
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            F
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            8
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="5"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            S
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            E
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            9
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableBody)>
+    </WithStyles(Table)>
+  </div>
+  <WithStyles(TablePagination)
+    component="div"
+    count={6}
+    labelDisplayedRows={[Function]}
+    labelRowsPerPage="每頁顯示："
+    onChangePage={[Function]}
+    onChangeRowsPerPage={[Function]}
+    page={0}
+    rowsPerPage={10}
+    rowsPerPageOptions={
+      Array [
+        10,
+        25,
+        50,
+      ]
+    }
+  />
+</WithStyles(Paper)>
+`;
+
+exports[`DataTable UI Test Select Test Component snapshot 1`] = `
+<WithStyles(Paper)
+  className="_DataTable-paper-1"
+>
+  <div
+    className="_DataTable-tableWrapper-2"
+  >
+    <WithStyles(Table)
+      style={
+        Object {
+          "minWidth": 850,
+        }
+      }
+    >
+      <WithStyles(TableHead)>
+        <WithStyles(TableRow)
+          className="_DataTable-header-5"
+        >
+          <WithStyles(TableCell)
+            padding="checkbox"
+          >
+            <WithStyles(Checkbox)
+              checked={false}
+              onChange={[Function]}
+            />
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label1
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label2
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label3
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="3"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label4
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="4"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label5
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableHead)>
+      <WithStyles(TableBody)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="0"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            padding="checkbox"
+          >
+            <WithStyles(Checkbox)
+              checked={false}
+              onChange={[Function]}
+            />
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="1"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            padding="checkbox"
+          >
+            <WithStyles(Checkbox)
+              checked={false}
+              onChange={[Function]}
+            />
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="2"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            padding="checkbox"
+          >
+            <WithStyles(Checkbox)
+              checked={false}
+              onChange={[Function]}
+            />
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            T
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            N
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            2
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="3"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            padding="checkbox"
+          >
+            <WithStyles(Checkbox)
+              checked={false}
+              onChange={[Function]}
+            />
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            G
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            M
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="4"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            padding="checkbox"
+          >
+            <WithStyles(Checkbox)
+              checked={false}
+              onChange={[Function]}
+            />
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            H
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            O
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            7
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            F
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            8
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="5"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            padding="checkbox"
+          >
+            <WithStyles(Checkbox)
+              checked={false}
+              onChange={[Function]}
+            />
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            S
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            E
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            9
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableBody)>
+    </WithStyles(Table)>
+  </div>
+  <WithStyles(TablePagination)
+    component="div"
+    count={6}
+    labelDisplayedRows={[Function]}
+    labelRowsPerPage="每頁顯示："
+    onChangePage={[Function]}
+    onChangeRowsPerPage={[Function]}
+    page={0}
+    rowsPerPage={10}
+    rowsPerPageOptions={
+      Array [
+        10,
+        25,
+        50,
+      ]
+    }
+  />
+</WithStyles(Paper)>
+`;
+
+exports[`DataTable UI Test With action pass in Component snapshot 1`] = `
+<WithStyles(Paper)
+  className="_DataTable-paper-1"
+>
+  <div
+    className="_DataTable-tableWrapper-2"
+  >
+    <WithStyles(Table)
+      style={
+        Object {
+          "minWidth": 850,
+        }
+      }
+    >
+      <WithStyles(TableHead)>
+        <WithStyles(TableRow)
+          className="_DataTable-header-5"
+        >
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label1
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label2
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label3
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="3"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label4
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="4"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label5
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            action 1
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            action 2
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            action 3
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableHead)>
+      <WithStyles(TableBody)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="0"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "A",
+                  "column2": "B",
+                  "column3": "3",
+                  "column4": "C",
+                  "column5": "4",
+                  "dataIX": 0,
+                }
+              }
+              index={0}
+            >
+              button 1
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "A",
+                  "column2": "B",
+                  "column3": "3",
+                  "column4": "C",
+                  "column5": "4",
+                  "dataIX": 0,
+                }
+              }
+              index={0}
+            >
+              button 2
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "A",
+                  "column2": "B",
+                  "column3": "3",
+                  "column4": "C",
+                  "column5": "4",
+                  "dataIX": 0,
+                }
+              }
+              index={0}
+            >
+              button 3
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="1"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "B",
+                  "column2": "C",
+                  "column3": "1",
+                  "column4": "C",
+                  "column5": "6",
+                  "dataIX": 1,
+                }
+              }
+              index={1}
+            >
+              button 1
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "B",
+                  "column2": "C",
+                  "column3": "1",
+                  "column4": "C",
+                  "column5": "6",
+                  "dataIX": 1,
+                }
+              }
+              index={1}
+            >
+              button 2
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "B",
+                  "column2": "C",
+                  "column3": "1",
+                  "column4": "C",
+                  "column5": "6",
+                  "dataIX": 1,
+                }
+              }
+              index={1}
+            >
+              button 3
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="2"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            T
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            N
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            2
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "T",
+                  "column2": "N",
+                  "column3": "2",
+                  "column4": "D",
+                  "column5": "1",
+                  "dataIX": 2,
+                }
+              }
+              index={2}
+            >
+              button 1
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "T",
+                  "column2": "N",
+                  "column3": "2",
+                  "column4": "D",
+                  "column5": "1",
+                  "dataIX": 2,
+                }
+              }
+              index={2}
+            >
+              button 2
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "T",
+                  "column2": "N",
+                  "column3": "2",
+                  "column4": "D",
+                  "column5": "1",
+                  "dataIX": 2,
+                }
+              }
+              index={2}
+            >
+              button 3
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="3"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            G
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            M
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "G",
+                  "column2": "M",
+                  "column3": "6",
+                  "column4": "D",
+                  "column5": "3",
+                  "dataIX": 3,
+                }
+              }
+              index={3}
+            >
+              button 1
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "G",
+                  "column2": "M",
+                  "column3": "6",
+                  "column4": "D",
+                  "column5": "3",
+                  "dataIX": 3,
+                }
+              }
+              index={3}
+            >
+              button 2
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "G",
+                  "column2": "M",
+                  "column3": "6",
+                  "column4": "D",
+                  "column5": "3",
+                  "dataIX": 3,
+                }
+              }
+              index={3}
+            >
+              button 3
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="4"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            H
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            O
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            7
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            F
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            8
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "H",
+                  "column2": "O",
+                  "column3": "7",
+                  "column4": "F",
+                  "column5": "8",
+                  "dataIX": 4,
+                }
+              }
+              index={4}
+            >
+              button 1
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "H",
+                  "column2": "O",
+                  "column3": "7",
+                  "column4": "F",
+                  "column5": "8",
+                  "dataIX": 4,
+                }
+              }
+              index={4}
+            >
+              button 2
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "H",
+                  "column2": "O",
+                  "column3": "7",
+                  "column4": "F",
+                  "column5": "8",
+                  "dataIX": 4,
+                }
+              }
+              index={4}
+            >
+              button 3
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="5"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            S
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            E
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            9
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "A",
+                  "column2": "S",
+                  "column3": "4",
+                  "column4": "E",
+                  "column5": "9",
+                  "dataIX": 5,
+                }
+              }
+              index={5}
+            >
+              button 1
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "A",
+                  "column2": "S",
+                  "column3": "4",
+                  "column4": "E",
+                  "column5": "9",
+                  "dataIX": 5,
+                }
+              }
+              index={5}
+            >
+              button 2
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(Button)
+              data={
+                Object {
+                  "column1": "A",
+                  "column2": "S",
+                  "column3": "4",
+                  "column4": "E",
+                  "column5": "9",
+                  "dataIX": 5,
+                }
+              }
+              index={5}
+            >
+              button 3
+            </WithStyles(Button)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableBody)>
+    </WithStyles(Table)>
+  </div>
+  <WithStyles(TablePagination)
+    component="div"
+    count={6}
+    labelDisplayedRows={[Function]}
+    labelRowsPerPage="每頁顯示："
+    onChangePage={[Function]}
+    onChangeRowsPerPage={[Function]}
+    page={0}
+    rowsPerPage={10}
+    rowsPerPageOptions={
+      Array [
+        10,
+        25,
+        50,
+      ]
+    }
+  />
+</WithStyles(Paper)>
+`;
+
+exports[`DataTable UI Test Without action pass in Component snapshot 1`] = `
+<WithStyles(Paper)
+  className="_DataTable-paper-1"
+>
+  <div
+    className="_DataTable-tableWrapper-2"
+  >
+    <WithStyles(Table)
+      style={
+        Object {
+          "minWidth": 850,
+        }
+      }
+    >
+      <WithStyles(TableHead)>
+        <WithStyles(TableRow)
+          className="_DataTable-header-5"
+        >
+          <WithStyles(TableCell)
+            key="0"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label1
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="1"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label2
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="2"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label3
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="3"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label4
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            key="4"
+            padding="dense"
+          >
+            <WithStyles(TableSortLabel)
+              active={false}
+              direction="desc"
+              onClick={[Function]}
+            >
+              label5
+            </WithStyles(TableSortLabel)>
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableHead)>
+      <WithStyles(TableBody)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="0"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="1"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            B
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            C
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="2"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            T
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            N
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            2
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            1
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="3"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            G
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            M
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            6
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            D
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            3
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="4"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            H
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            O
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            7
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            F
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            8
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+        <WithStyles(TableRow)
+          className="_DataTable-body-6 _DataTable-hover-7"
+          key="5"
+          onClick={[Function]}
+        >
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="0"
+            padding="dense"
+          >
+            A
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="1"
+            padding="dense"
+          >
+            S
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="2"
+            padding="dense"
+          >
+            4
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="3"
+            padding="dense"
+          >
+            E
+          </WithStyles(TableCell)>
+          <WithStyles(TableCell)
+            className="_DataTable-tableCell-10"
+            key="4"
+            padding="dense"
+          >
+            9
+          </WithStyles(TableCell)>
+        </WithStyles(TableRow)>
+      </WithStyles(TableBody)>
+    </WithStyles(Table)>
+  </div>
+  <WithStyles(TablePagination)
+    component="div"
+    count={6}
+    labelDisplayedRows={[Function]}
+    labelRowsPerPage="每頁顯示："
+    onChangePage={[Function]}
+    onChangeRowsPerPage={[Function]}
+    page={0}
+    rowsPerPage={10}
+    rowsPerPageOptions={
+      Array [
+        10,
+        25,
+        50,
+      ]
+    }
+  />
+</WithStyles(Paper)>
+`;
